@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[OrangeBlog]]></title>
+  <subtitle><![CDATA[Surrender to the fact that life isn't fair]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://orangezhangblogme.tk/"/>
+  <updated>2015-11-27T05:52:14.352Z</updated>
+  <id>http://orangezhangblogme.tk/</id>
+  
+  <author>
+    <name><![CDATA[zhang cheng]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[NVM 快速安装nodejs]]></title>
+    <link href="http://orangezhangblogme.tk/2015/11/26/NVM-install-nodejs/"/>
+    <id>http://orangezhangblogme.tk/2015/11/26/NVM-install-nodejs/</id>
+    <published>2015-11-27T05:00:48.000Z</published>
+    <updated>2015-11-27T05:52:14.352Z</updated>
+    <content type="html"><![CDATA[<h1 id="安装nvm命令">安装nvm命令</h1><p><strong>只支持linux和Mac</strong><br><code>curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.29.0/install.sh | bash</code></p>
+<h2 id="使用命令">使用命令</h2><p>‘nvm install v5.0.0’  //表示安装版本5<br>‘nvm install v0.12.0’ //表示安装版本0.12</p>
+<p>‘nvm use v5.0.0’ //表示切换到指定版本</p>
+<p>‘nvm ls’ //显示系统安装的所有版本</p>
+<hr>
+<p> nvm 命令还有很多，请自行运行 ‘nvm –help’ 进行查看</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[quickly install nodejs tools]]>
+    
+    </summary>
+    
+      <category term="nodejs" scheme="http://orangezhangblogme.tk/categories/nodejs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[zhangcheng's day]]></title>
+    <link href="http://orangezhangblogme.tk/2015/11/25/zhangchengs-day/"/>
+    <id>http://orangezhangblogme.tk/2015/11/25/zhangchengs-day/</id>
+    <published>2015-11-26T05:35:46.000Z</published>
+    <updated>2015-11-27T04:52:42.117Z</updated>
+    <content type="html"><![CDATA[<h1 id="第一次用Markdown_写博客">第一次用Markdown 写博客</h1><hr>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="第一次用Markdown_写博客">第一次用Markdown 写博客</h1><hr>
+]]>
+    </summary>
+    
+      <category term="life" scheme="http://orangezhangblogme.tk/tags/life/"/>
+    
+      <category term="life" scheme="http://orangezhangblogme.tk/categories/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://orangezhangblogme.tk/2015/11/25/hello-world/"/>
+    <id>http://orangezhangblogme.tk/2015/11/25/hello-world/</id>
+    <published>2015-11-26T05:24:34.732Z</published>
+    <updated>2015-11-26T05:24:34.732Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello zhangcheng]]></title>
+    <link href="http://orangezhangblogme.tk/2015/11/24/Hello-zhangcheng/"/>
+    <id>http://orangezhangblogme.tk/2015/11/24/Hello-zhangcheng/</id>
+    <published>2015-11-24T16:37:52.000Z</published>
+    <updated>2015-11-27T03:26:52.100Z</updated>
+    <content type="html"><![CDATA[<p>我的人生计划</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>我的人生计划</p>
+]]>
+    </summary>
+    
+      <category term="life" scheme="http://orangezhangblogme.tk/tags/life/"/>
+    
+      <category term="life" scheme="http://orangezhangblogme.tk/categories/life/"/>
+    
+  </entry>
+  
+</feed>
