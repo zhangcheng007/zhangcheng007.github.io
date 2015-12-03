@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Putting in a Good Word for Guilt]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://orangezhangblogme.tk/"/>
-  <updated>2015-12-03T14:05:52.711Z</updated>
+  <updated>2015-12-03T14:07:44.967Z</updated>
   <id>http://orangezhangblogme.tk/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://orangezhangblogme.tk/2015/12/03/putting-in-good-word-for-guilt/"/>
     <id>http://orangezhangblogme.tk/2015/12/03/putting-in-good-word-for-guilt/</id>
     <published>2015-12-03T17:51:59.000Z</published>
-    <updated>2015-12-03T14:05:52.711Z</updated>
+    <updated>2015-12-03T14:07:44.967Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>Feeling guilty is nothing to feel guilty about. yes,,guilt can be the excess baggage that keeps us<br>paralysed unless we dump it. but it can be also be the engine that fuels us.yes,it can be a self-punishing activity,but it can alse be the conscience that keeps us civilized.</p>
 <p>There was a popular notion,in fact,that self-love began by slaying one’s guilt.people all arount us spent a great portion of the last decade trying to tune out guilt instead of decoding its message and<br>learning what it was trying to tell us.</p>
@@ -42,28 +42,6 @@
       <category term="english" scheme="http://orangezhangblogme.tk/tags/english/"/>
     
       <category term="english" scheme="http://orangezhangblogme.tk/categories/english/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://orangezhangblogme.tk/2015/12/03/hello-world/"/>
-    <id>http://orangezhangblogme.tk/2015/12/03/hello-world/</id>
-    <published>2015-12-03T11:53:46.084Z</published>
-    <updated>2015-12-03T11:53:46.084Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
-    </summary>
     
   </entry>
   
@@ -221,6 +199,28 @@
     </summary>
     
       <category term="nodejs" scheme="http://orangezhangblogme.tk/categories/nodejs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://orangezhangblogme.tk/2015/11/25/hello-world/"/>
+    <id>http://orangezhangblogme.tk/2015/11/25/hello-world/</id>
+    <published>2015-11-25T17:37:52.000Z</published>
+    <updated>2015-12-03T14:13:20.837Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
     
   </entry>
   
