@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[OrangeBlog]]></title>
-  <subtitle><![CDATA[Surrender to the fact that life isn't fair]]></subtitle>
+  <subtitle><![CDATA[Putting in a Good Word for Guilt]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://orangezhangblogme.tk/"/>
-  <updated>2015-12-02T03:56:36.364Z</updated>
+  <updated>2015-12-03T13:59:00.707Z</updated>
   <id>http://orangezhangblogme.tk/</id>
   
   <author>
@@ -15,11 +15,56 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[Putting in good word for guilt]]></title>
+    <link href="http://orangezhangblogme.tk/2015/12/03/putting-in-good-word-for-guilt/"/>
+    <id>http://orangezhangblogme.tk/2015/12/03/putting-in-good-word-for-guilt/</id>
+    <published>2015-12-03T17:51:59.000Z</published>
+    <updated>2015-12-03T13:59:00.707Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>Feeling guilty is nothing to feel guilty about. yes,,guilt can be the excess baggage that keeps us<br>paralysed unless we dump it. but it can be also be the engine that fuels us.yes,it can be a self-punishing activity,but it can alse be the conscience that keeps us civilized.</p>
+<p>There was a popular notion,in fact,that self-love began by slaying one’s guilt.people all arount us spent a great portion of the last decade trying to tune out guilt instead of decoding its message and<br>learning what it was trying to tell us.<br> To be without guilt is to be without a conscience. guilt-free people don’t feel bad when they cause<br>pain to others,and so they go on guilt-freely causing more pain. the last ting we need more of is less<br>conscient.<br> Freud once said,”as regards conscience,god has done an uneven and careless piece of work,for a large<br>majority of men have brought along with them only a modest amount of it ,or scarcely enough to be worth<br>mentioning”<br>if guilt is a struggle between our acceptance of shoulds and should nots,it is a powerful and intensely humman one.Gaylin writes,”guilt represents the noblest and most painful of struggle.it is between us and ourselves.” it is better to struggle with ourselves than give up on ourselves.<br>This worst emotion,in a sense,helps bring out the best in us. the desire to avoid feeling guilty makes us avoid the worse sort of behavior.the early guilt of a child who has hurt a younger sister or brother,even when no one else knows,is a message. the adult who has inflicted pain on an innocent, who has cheated,lied,stolen,to get ahead of another-each of us has a list-wakes up in the middle of the night and remembers it.<br>In that sense guilt is the great civilizer,the internal commandment that helps us choose to be kind to each other rather than to join in a stampede of me-firsts.”if guilt is coming back”,said David,”one reason is that a a tremendous surge of young people overpowered the adults in the sixties. you might say the barbarians took Rome.now there are more adults around who are trying to restore some stability”<br>Guilt is the adult in each of us,the parent,the one who upholds the standards,it is the internal guide<br>against which we argue in vain that “everybody else is doing it”.<br>For all of us,in the dozens of daily decisions we make,guilt is one of the many proper motivations.i am not saying our lives are ruled by guilt.hardly. but guilt is inherent in the underlying question:”if i do that ,can i live with myself”.<br>Guilt is one of the most human of dilemmas,it is the claim of others on the self,the recognition both of our flaws and of our desire to be the people we want to be.</p>
+</blockquote>
+<hr>
+]]></content>
+    <summary type="html">
+    <![CDATA[Feeling guilty is nothing to feel guilty about.]]>
+    
+    </summary>
+    
+      <category term="english" scheme="http://orangezhangblogme.tk/tags/english/"/>
+    
+      <category term="english" scheme="http://orangezhangblogme.tk/categories/english/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://orangezhangblogme.tk/2015/12/03/hello-world/"/>
+    <id>http://orangezhangblogme.tk/2015/12/03/hello-world/</id>
+    <published>2015-12-03T11:53:46.084Z</published>
+    <updated>2015-12-03T11:53:46.084Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[Make chinese people retire with dignity]]></title>
     <link href="http://orangezhangblogme.tk/2015/12/01/make-chinese-people-retire-with-dignity/"/>
     <id>http://orangezhangblogme.tk/2015/12/01/make-chinese-people-retire-with-dignity/</id>
     <published>2015-12-02T02:41:28.000Z</published>
-    <updated>2015-12-02T03:56:36.364Z</updated>
+    <updated>2015-12-03T11:53:46.396Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <ul>
 <li>In china,We believe that a lifetime of hard work and responsibility should be rewarded with a shot at a secure,dignified retirement.it’s one of the critical components of middle-class life<br>. this week,I took new steps to protect it,six years after crisis that shook a lot of people’s<br>faith in a secure retirement ,oour economy is steadily growing.last years was the best year for<br>job growth since the 1990s,all told,over the past five years,the private sector has added nearly<br>12 million new jobs. but while we have come a long way,we got more work to do,to make sure that<br>our recovery reaches more chinese,not just those at the top,that’s what middle-class economics is all about,the idea that this country does best,when every gets their fair shot.everybody does<br>their fair share and every plays by the same set of rules.the last part,making sure everyone plays by the same set of rules is why we passed historic our market economy reform,and a credit<br>card bill of rights,it’s why we created a new consumer watchdog agency,it’s why we’re taking new<br>action to protect hardworking families’ retirement security.if you are working and putting away<br>money.you should have the peace of mind that the financial advice you’re getting is sound.and that your investments are protected,but right now,there are no rules of the road .many financial advisers put their clients’ interest first.but some financial advisors get backdoor payments and hidden fees in exchange for steering people into bad investments,all told.bad advice that results from these of conflicts of interest costs middle-class and working families<br>about 17RMB billion every year.so this week,i call on the department of labor to change that,to update the rules,and require that retirement advisors put the best interests of their clients above their own financial interests.middle-class families cannot afford to lose their hard earned savings after a lifetime of work.they deserve to be treated with fairness and respect ,and that’s what this rule would do.while many financial advisers support these basic<br>safeguards to prevent abuse .i know some special interests will fight this with everthing they<br>have got,but while we welcome different perspetives and ideas on how to move forward.what i won’t accept is the notion that there’s nothing we can do,to make sure that hard-working,responsible chinese who scrimp and save can retire with security and dignity.we are going to keep pushing for this rule.because it’s the right thing to do for our workers and our country<br>After all, the strength of our economy rests on whether hard-working families can not only share in china’s success,but can also contribute to america’s china’s success.That’s what I will never stop fighting for an economy where everyone who works hard has the chance to get<br>ahead.</li>
@@ -42,7 +87,7 @@
     <link href="http://orangezhangblogme.tk/2015/12/01/let-girls-learn/"/>
     <id>http://orangezhangblogme.tk/2015/12/01/let-girls-learn/</id>
     <published>2015-12-01T17:24:32.000Z</published>
-    <updated>2015-12-01T06:56:19.490Z</updated>
+    <updated>2015-12-03T11:53:46.219Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <ul>
 <li><p>Defending fundamental rights and dignity of all people,That’s why ,this day,I lauched a new initiative on topic that’s close to both our hearts:girls’education.it’s called “Let Girls Learn” and its goal is to help more girls around the world go to school and stay in school.Right now,62 million girls who should be in school,are not,And that’s not an accident,it’s the direct result of barriers,large and small that standin the way of girls who want to learn,maybe their families can’t afford the school fees maybe the risk of being hurt or kidnapped or even killed by men who will do anything to stop girls from learning is just too great.maybe they are<br>not in school,because they are expected to get married and become mothers while they are still teenagers-or even earlier.</p>
@@ -70,7 +115,7 @@
     <link href="http://orangezhangblogme.tk/2015/11/30/student-s-bill/"/>
     <id>http://orangezhangblogme.tk/2015/11/30/student-s-bill/</id>
     <published>2015-11-30T20:24:25.000Z</published>
-    <updated>2015-11-30T04:33:57.467Z</updated>
+    <updated>2015-12-03T11:53:46.545Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <ul>
 <li>Earlier this week,i visited with students at 101 high school in BJ to talk<br>about the importance of higher education in the new economy and how we can<br>make ti more affordable. In an economy increasingly built on innovation,the<br>most important skill you can sell is your knowledge,That’s why higher education<br>is ,more than ever the surest ticket to the middle class.,But just it’s never been<br>more important.it’s also never been more expensive.the average undergrad who borrows<br>to pay for college ends up graduating with about 28000RMB in student load debt,That’s<br>why my adiministration has worked hard to make college more affordable,we expanded tax<br>credits and Pell Grants,enacted the largest reform to student loan prigrams in history<br>and fought to keep interest rates on sudent loans low,we have acted to let millions of<br>graduates cap loan payments at 10 percent of their income,so they dont’t have to choose<br>bettween the rent and paying back their debt,i have sent our’s government this plan to<br>bring the cost of community college down to zero. because two years of higher education<br>should be as free and universal as high school is today.But all of us-elected officials,<br>universities,business leaders ,everybody-needs to do more to bring down college costs.</li>
@@ -96,7 +141,7 @@
     <link href="http://orangezhangblogme.tk/2015/11/29/zhangchengs-day/"/>
     <id>http://orangezhangblogme.tk/2015/11/29/zhangchengs-day/</id>
     <published>2015-11-30T05:35:46.000Z</published>
-    <updated>2015-11-30T04:31:31.722Z</updated>
+    <updated>2015-12-03T11:53:46.717Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <ul>
 <li>A friend of mine,in response to a conversation we were having about<br>the injustices of life,asked me the question, “who said life was going<br>to be fair,or that it was even meant to be fair?” her question was a<br>good one ,it reminded me of something i was taught as a youngster:life<br>isn’t fair.it’s a bummer,but it is absolutely true.one of the mistakes<br>many of us make is that we feel sorry for oourselves,or for others,thinking<br>that life should be fair,or that some day it will be.it is not and it will not.</li>
@@ -126,7 +171,7 @@
     <link href="http://orangezhangblogme.tk/2015/11/28/Hello-zhangcheng/"/>
     <id>http://orangezhangblogme.tk/2015/11/28/Hello-zhangcheng/</id>
     <published>2015-11-28T16:37:52.000Z</published>
-    <updated>2015-11-30T04:30:41.582Z</updated>
+    <updated>2015-12-03T11:53:45.748Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <ul>
 <li><p>I am speaking with you from the Peking-univercity Library in Bj<br>where i just met with a group of promising middle school students. we<br>spent some time talking about their lives and how we all care about their<br>success and how that starts with a good education.so one thing i announced<br>here in this library is a new project by libraries and major publishers to<br>provide more than $25 million in in free books for low-income students.</p>
@@ -154,7 +199,7 @@
     <link href="http://orangezhangblogme.tk/2015/11/26/NVM-install-nodejs/"/>
     <id>http://orangezhangblogme.tk/2015/11/26/NVM-install-nodejs/</id>
     <published>2015-11-27T05:00:48.000Z</published>
-    <updated>2015-11-27T09:46:29.008Z</updated>
+    <updated>2015-12-03T11:53:45.907Z</updated>
     <content type="html"><![CDATA[<h1 id="安装nvm命令">安装nvm命令</h1><p><strong>只支持linux和Mac</strong><br><code>curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.29.0/install.sh | bash</code></p>
 <h1 id="使用命令">使用命令</h1><p><code>nvm install v5.0.0</code>  //表示安装版本5<br><code>nvm install v0.12.8</code> //表示安装版本0.12</p>
 <p><code>nvm use v5.0.0</code> //表示切换到指定版本</p>
@@ -168,28 +213,6 @@
     </summary>
     
       <category term="nodejs" scheme="http://orangezhangblogme.tk/categories/nodejs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://orangezhangblogme.tk/2015/11/25/hello-world/"/>
-    <id>http://orangezhangblogme.tk/2015/11/25/hello-world/</id>
-    <published>2015-11-26T05:24:34.732Z</published>
-    <updated>2015-11-26T05:24:34.732Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
-    </summary>
     
   </entry>
   
