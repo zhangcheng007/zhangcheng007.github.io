@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Never Give Up the Pursuit of Learning]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://orangezhangblogme.tk/"/>
-  <updated>2015-12-27T13:50:18.785Z</updated>
+  <updated>2015-12-29T05:18:42.898Z</updated>
   <id>http://orangezhangblogme.tk/</id>
   
   <author>
@@ -15,16 +15,43 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[belong]]></title>
+    <title><![CDATA[Man is youth]]></title>
+    <link href="http://orangezhangblogme.tk/2015/12/28/Man-is-youth/"/>
+    <id>http://orangezhangblogme.tk/2015/12/28/Man-is-youth/</id>
+    <published>2015-12-29T05:18:42.000Z</published>
+    <updated>2015-12-29T05:18:42.898Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[A Sense of Belonging]]></title>
     <link href="http://orangezhangblogme.tk/2015/12/27/belong/"/>
     <id>http://orangezhangblogme.tk/2015/12/27/belong/</id>
     <published>2015-12-27T13:49:31.000Z</published>
-    <updated>2015-12-27T13:50:18.785Z</updated>
-    <content type="html"></content>
+    <updated>2015-12-29T05:20:21.117Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>When one is abroad and gets to make new friends,the question “where are you from?” is one that will inevitably pop up. As the number of immigrants here rises,more singaporeans are asking new acqaintances this same quesion.</p>
+<p>For chinese nationals,the answer can be just china,or narrowed down to the specific province or city.if the person who asks the question dones not understand Mandarin,one’s citizenship is often an adequate reply.but if he or she is an overseas chinese or has some knowledge about china,the answer may include province,city and even district.having experienced both situations ofter enough,i am beginning to feel that much more is involved in this seemingly simple conversation.</p>
+<p>For someone with a straightforward life experience-born,raised,and lived in the same place-the answer is equally straightforward.but it is trickier for a person whose ancestral home,bithplace,the place he grew up,got married and worked in are not the same-in different cities,provinces,even countries.there is a lot more that he can choose to say in response to the simple “where are you from”? query.why and what he dicides to say may reveal a lot about him.</p>
+<p>One may mention the ancestral home,perhaps out of a deep sense of affection for the forefathers,or maybe it is a place that is world-famous for boasting many renowned personalities.yet another person may refer to the city where he was born,grew up,got married and set up his essential network of relations.he may have a fond memory of the place,or in short,it is a place where he feels he belongs to.</p>
+<p>Whatever one says and the resons for it,it is easy to detect the affeciton  for,and a sence of identification with,the place mentioned.The feeling is neither ethnic nor national identification,but a sence of belonging.</p>
+<p>A place which can make one grow fond of,and identify with,must have its charm and attraction,a scenic environment,a warm and caring people,a gracious society,good living conditions and more opportunities for success are just some possible reasons.</p>
+<p>The intense global competiton for foreign talent has made some countries and cities take this “sense of belonging” approach to attract them.</p>
+<p>If we can make passing travellers and foreign talent identify with us amd sink roots here,there will be added dynamism and vitality for our progress.</p>
+</blockquote>
+]]></content>
     <summary type="html">
     <![CDATA[A sense of belonging]]>
     
     </summary>
+    
+      <category term="english" scheme="http://orangezhangblogme.tk/tags/english/"/>
+    
+      <category term="english" scheme="http://orangezhangblogme.tk/categories/english/"/>
     
   </entry>
   
@@ -488,28 +515,6 @@
     </summary>
     
       <category term="nodejs" scheme="http://orangezhangblogme.tk/categories/nodejs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://orangezhangblogme.tk/2015/11/25/hello-world/"/>
-    <id>http://orangezhangblogme.tk/2015/11/25/hello-world/</id>
-    <published>2015-11-25T17:37:52.000Z</published>
-    <updated>2015-12-27T13:48:14.525Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
-    </summary>
     
   </entry>
   
